@@ -1,7 +1,15 @@
-# Create a README.md
+# Simple Area Calculator
 
-If you need help with `Markdown`, check out [The Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)!
+This is a simple Python 3 program that calculates the area of a rectangle based on user input.
 
-What should a good README.md look like? Check out these [guidelines](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes).
+## How to Run
+1.  Ensure you have Python 3 installed.
+2.  Run the program from your terminal: `python main.py`
+3.  Follow the on-screen prompts to enter the length and width of the rectangle.
 
-Did you add an open source software license?
+## Project Goal
+This project was created to demonstrate fundamental concepts of Python programming, including:
+-   Taking user input
+-   Defining and using functions
+-   Basic input validation and error handling
+-   Printing formatted output
